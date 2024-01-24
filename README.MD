@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-1. Run the script: `python your_script_name.py`.
+1. Run the script: `python main.py`.
 2. Follow the voice instructions to provide email details such as recipient, subject, and main body.
 3. Confirm your choices as prompted.
 4. The system will send the email once all details are confirmed.
